@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Ihor Bobulych</h1>
+<h1 align="center">Hi there 👋, I'm Ihor Bobulych (Ігор Бобулич)</h1>
 <h3 align="center">A passionate frontend developer from Ukraine / Estonia</h3>
 
 - 🔭 I’m currently working on developing the independent educational platform - [OSTUD (ОСТУД)](https://github.com/bobul/ostud-educational-platform)
