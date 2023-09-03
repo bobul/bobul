@@ -5,13 +5,11 @@
 
 - 🌱 I’m currently learning **feature-slice design methodology (FSD)**
 
-- 👯 I'm serving a client side for our fundraising pet project with Artem Fedorchenko - [Vidclick](https://github.com/Artemmmm13/VidClick-API)
+- 👯 I'm serving a client side for our fundraising pet project with [Artem Fedorchenko](https://github.com/bobul/ostud-educational-platform](https://github.com/Artemmmm13) - [Vidclick](https://github.com/Artemmmm13/VidClick-API)
 
-- 💬 Ask me about **React, Redux Toolkit / Redux Query**
+- 📫 How to reach me? You can touch my email **bobulychihor@gmail.com**
 
-- 📫 How to reach me **bobulychihor@gmail.com**
-
-- ⚡ Fun fact **I like Warszawa**
+- ⚡ Fun fact! **I like Warszawa**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,7 +17,7 @@
 <a href="https://instagram.com/cheelav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cheelav" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Frontend Development: </h3>
+<h3 align="left">Languages, Tools, Frameworks, Libraries, Testing: </h3>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
@@ -35,8 +33,6 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
 </p>
-<h3 align="left">Backend Development: </h3>
-<p align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
   <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
@@ -44,25 +40,12 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-</p>
-<h3 align="left">Testing: </h3>
-<p align="left">
   <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a>
   <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-</p>
-<h3 align="left">Version Control and Collaboration: </h3>
-<p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /> </a>
-</p>
-<h3 align="left">Design and Prototyping: </h3>
-<p align="left">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-</p>
-<h3 align="left">Operating Systems: </h3>
-<p align="left">
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://www.microsoft.com/en-us/windows/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Windows_logo_-_2012.svg/1024px-Windows_logo_-_2012.svg.png" alt="windows" width="40" height="40"/> </a>
-</p>
+
 
