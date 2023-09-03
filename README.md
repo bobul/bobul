@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **feature-slice design methodology (FSD)**
 
-- 👯 I'm serving a client side for our fundraising pet project with [Artem Fedorchenko](https://github.com/bobul/ostud-educational-platform](https://github.com/Artemmmm13) - [Vidclick](https://github.com/Artemmmm13/VidClick-API)
+- 👯 I'm serving a client side for our fundraising pet project with [Artem Fedorchenko](https://github.com/Artemmmm13) - [Vidclick](https://github.com/Artemmmm13/VidClick-API)
 
 - 📫 How to reach me? You can touch my email **bobulychihor@gmail.com**
 
