@@ -25,8 +25,7 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-  <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer"><img src="https://redux-toolkit.js.org/logo/RTK-Logo-Small.png" alt="Redux Toolkit" width="40" height="40"/></a>
-  <a href="https://www.apollographql.com/docs/react/" target="_blank" rel="noreferrer"><img src="https://www.apollographql.com/img/logo-key.svg" alt="Apollo Client" width="40" height="40"/></a>
+  <a href="https://www.apollographql.com/docs/react/" target="_blank" rel="noreferrer"><img src="https://global.discourse-cdn.com/business5/uploads/apollographql/original/1X/25bd5104d61020fe4dc0777a5919cd009bca633e.png" alt="apollo" width="40" height="40" /></a>
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://vitejs.dev/logo.svg" alt="Vite" width="40" height="40"/> </a>
   <a href="https://material-ui.com/" target="_blank" rel="noreferrer"> <img src="https://material-ui.com/static/logo.png" alt="Material-UI" width="40" height="40"/> </a>
   <a href="https://radix-ui.com/" target="_blank" rel="noreferrer"><img src="https://radix-ui.com/favicon.png" alt="Radix UI" width="40" height="40"/></a>
