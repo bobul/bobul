@@ -9,7 +9,7 @@
 
 - 📫 How to reach me? You can touch my email **bobulychihor@gmail.com**
 
-- ⚡ Fun fact! **I like Warszawa**
+- ⚡ Fun fact! **I like Poland**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
