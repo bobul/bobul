@@ -1,11 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Ihor Bobulych (Ігор Бобулич)</h1>
 <h3 align="center">A passionate frontend developer from Ukraine / Estonia</h3>
 
-- 🔭 I’m currently working on developing the independent educational platform - [OSTUD (ОСТУД)](https://github.com/bobul/ostud-educational-platform)
-
-- 🌱 I’m currently learning **feature-slice design methodology (FSD)**
-
-- 👯 I'm serving a client side for our fundraising pet project with [Artem Fedorchenko](https://github.com/Artemmmm13) - [Vidclick](https://github.com/Artemmmm13/VidClick-API)
+- 🌱 I’m currently learning **Next.js and all supplying stack**
 
 - 📫 How to reach me? You can touch my email **bobulychihor@gmail.com**
 
